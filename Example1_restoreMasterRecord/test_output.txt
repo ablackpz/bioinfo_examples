@@ -1,0 +1,4 @@
+1	2000	C	T	meta
+2	1	G	A	meta
+Z	30000	T	C	meta
+random	2	A	C	meta
